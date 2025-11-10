@@ -1,6 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
+    "build": 245,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -863,7 +864,6 @@
         "userAdded": false
       },
       {
-<<<<<<< HEAD
         "file": "thick_8x8.xml",
         "kind": "bitmapFont",
         "metadata": "",
@@ -871,21 +871,14 @@
         "userAdded": false
       },
       {
-        "file": "thick_8x8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "thick_8x8.png",
-=======
         "file": "assets/Boss Golem_Idle_1.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\Boss Golem_Idle_1.png",
->>>>>>> ba3f88a9976536f7e55f61ce7505a595e09f24b1
         "smoothed": true,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
         "file": "8BitOperatorPlus8Regular_Edited.fnt",
         "kind": "bitmapFont",
         "metadata": "",
@@ -893,36 +886,30 @@
         "userAdded": false
       },
       {
-        "file": "8BitOperatorPlus8Regular_Edited3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "8BitOperatorPlus8Regular_Edited3.png",
-=======
         "file": "assets/Bullet_1.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\Bullet_1.png",
->>>>>>> ba3f88a9976536f7e55f61ce7505a595e09f24b1
         "smoothed": true,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
         "file": "Enemy_Spawn_Location.png",
         "kind": "image",
         "metadata": "",
         "name": "Enemy_Spawn_Location.png",
-=======
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
         "file": "EnemyHealthBar.png",
         "kind": "image",
         "metadata": "",
         "name": "EnemyHealthBar.png",
->>>>>>> ba3f88a9976536f7e55f61ce7505a595e09f24b1
         "smoothed": true,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
         "file": "assets/Square Blue Slider Border.png",
         "kind": "image",
         "metadata": "",
@@ -963,62 +950,66 @@
         "kind": "image",
         "metadata": "",
         "name": "Enemy_Spawn_Location2.png",
-=======
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
         "file": "assets/NewSprite.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite",
->>>>>>> ba3f88a9976536f7e55f61ce7505a595e09f24b1
         "smoothed": true,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
         "file": "Enemy_Spawn_Location3.png",
         "kind": "image",
         "metadata": "",
         "name": "Enemy_Spawn_Location3.png",
-=======
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
         "file": "assets/NewSprite2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite2",
->>>>>>> ba3f88a9976536f7e55f61ce7505a595e09f24b1
         "smoothed": true,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
         "file": "Enemy_Spawn_Location4.png",
         "kind": "image",
         "metadata": "",
         "name": "Enemy_Spawn_Location4.png",
-=======
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
         "file": "assets/NewSprite3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite3",
->>>>>>> ba3f88a9976536f7e55f61ce7505a595e09f24b1
         "smoothed": true,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
         "file": "TheRoom.png",
         "kind": "image",
         "metadata": "",
         "name": "TheRoom.png",
-=======
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
         "file": "assets/NewSprite4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite4",
->>>>>>> ba3f88a9976536f7e55f61ce7505a595e09f24b1
         "smoothed": true,
         "userAdded": false
       },
       {
-<<<<<<< HEAD
         "file": "TheRoom2.png",
         "kind": "image",
         "metadata": "",
@@ -1391,7 +1382,7 @@
         "file": "../Downloads/drive-download-20250930T072607Z-1-001/bck bulan1.png",
         "kind": "image",
         "metadata": "",
-        "name": "..\\Downloads\\drive-download-20250930T072607Z-1-001\\bck bulan1.png",
+        "name": "..\\Downloads\\drive-download-20250930T072607Z-1-001\bck bulan1.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -1603,14 +1594,22 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
-=======
+      },
+      {
         "file": "assets/Moon.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\Moon.png",
         "smoothed": true,
         "userAdded": false
->>>>>>> ba3f88a9976536f7e55f61ce7505a595e09f24b1
+      },
+      {
+        "file": "8BitOperatorPlus8Regular_Edited3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "8BitOperatorPlus8Regular_Edited3.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1954,14 +1953,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-<<<<<<< HEAD
-        "zoomFactor": 0.4335774304702424,
+        "zoomFactor": 0.23089183385225176,
         "windowMask": false,
-        "selectedLayer": ""
-=======
-        "zoomFactor": 0.35534345588170196,
-        "windowMask": false
->>>>>>> ba3f88a9976536f7e55f61ce7505a595e09f24b1
+        "selectedLayer": "resapwn"
       },
       "objectsGroups": [
         {
@@ -2203,9 +2197,9 @@
           "layer": "",
           "name": "Platform_2",
           "persistentUuid": "a9089e79-d43d-4f96-8533-3956f9e270d7",
-          "width": 242,
-          "x": 1295,
-          "y": 603,
+          "width": 290,
+          "x": 1025,
+          "y": 443,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -2547,12 +2541,12 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 414,
+          "height": 143,
           "keepRatio": true,
           "layer": "resapwn",
           "name": "NewSprite",
           "persistentUuid": "90e82a75-65ee-4c57-8646-94f33898bf87",
-          "width": 869,
+          "width": 224,
           "x": 84,
           "y": 98,
           "zOrder": 108,
@@ -2563,16 +2557,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 93,
-          "keepRatio": true,
+          "depth": 2725.5351681957186,
+          "height": 625,
           "layer": "resapwn",
           "name": "YouDied",
           "persistentUuid": "0360d842-4c3f-40e2-afcf-4d36212c15d7",
-          "width": 648,
-          "x": 196,
-          "y": 143,
-          "zOrder": 111,
+          "width": 1426,
+          "x": 0,
+          "y": 302,
+          "zOrder": 500,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2662,15 +2655,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 411,
-          "keepRatio": true,
+          "depth": 1.5206812652068127,
+          "height": 625,
           "layer": "resapwn",
           "name": "pauseMenu",
           "persistentUuid": "82fb62d1-7d3e-4ba5-bc2f-6022dfd550b1",
-          "width": 866,
-          "x": 85,
-          "y": 98,
+          "width": 1426,
+          "x": 0,
+          "y": 0,
           "zOrder": 115,
           "numberProperties": [],
           "stringProperties": [],
@@ -2680,13 +2672,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 55,
+          "height": 56,
           "keepRatio": true,
           "layer": "resapwn",
           "name": "Paused",
           "persistentUuid": "6ddf6433-a550-428e-87d5-6cb5865cfe4e",
-          "width": 247,
-          "x": 393,
+          "width": 251,
+          "x": 583,
           "y": 135,
           "zOrder": 116,
           "numberProperties": [],
@@ -2697,14 +2689,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 55,
+          "height": 1,
           "keepRatio": true,
           "layer": "resapwn",
           "name": "Exit",
           "persistentUuid": "e6f2cbd1-df8b-4378-b5ab-6d5cfca88992",
-          "width": 152,
-          "x": 431,
-          "y": 378,
+          "width": 135,
+          "x": 622,
+          "y": 382,
           "zOrder": 117,
           "numberProperties": [],
           "stringProperties": [],
@@ -2714,14 +2706,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 58,
+          "height": 59,
           "keepRatio": true,
           "layer": "resapwn",
           "name": "Resume",
           "persistentUuid": "a8c26b72-007c-435a-aebc-76c69eae40ae",
-          "width": 271,
-          "x": 379,
-          "y": 266,
+          "width": 275,
+          "x": 569,
+          "y": 268,
           "zOrder": 118,
           "numberProperties": [],
           "stringProperties": [],
@@ -2740,6 +2732,23 @@
           "x": 429,
           "y": 381,
           "zOrder": 109,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 466,
+          "keepRatio": true,
+          "layer": "respawn",
+          "name": "NewSprite",
+          "persistentUuid": "4310ce79-0c41-43b5-9a08-78323f19cba7",
+          "width": 1417,
+          "x": 6,
+          "y": 160,
+          "zOrder": 501,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6130,8 +6139,8 @@
             "tint": "255;255;255",
             "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited2.fnt",
             "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited4.png",
-            "align": "left",
-            "verticalTextAlignment": "top"
+            "align": "center",
+            "verticalTextAlignment": "center"
           }
         },
         {
@@ -8979,6 +8988,59 @@
               }
             }
           ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "resapwn",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
         }
       ],
       "behaviorsSharedData": [
@@ -8991,12 +9053,20 @@
           "type": "AnimatableCapability::AnimatableBehavior"
         },
         {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM"
+        },
+        {
           "name": "Effect",
           "type": "EffectCapability::EffectBehavior"
         },
         {
           "name": "FireBullet",
           "type": "FireBullet::FireBullet"
+        },
+        {
+          "name": "FlashTransitionPainter",
+          "type": "FlashTransitionPainter::FlashTransitionPainter"
         },
         {
           "name": "Flippable",
@@ -9009,10 +9079,6 @@
         {
           "name": "Opacity",
           "type": "OpacityCapability::OpacityBehavior"
-        },
-        {
-          "name": "Pathfinding",
-          "type": "PathfindingBehavior::PathfindingBehavior"
         },
         {
           "name": "Platform",
@@ -9029,6 +9095,10 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         }
       ]
     },
@@ -15516,6 +15586,10 @@
           "type": "OpacityCapability::OpacityBehavior"
         },
         {
+          "name": "Pathfinding",
+          "type": "PathfindingBehavior::PathfindingBehavior"
+        },
+        {
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior"
         },
@@ -15557,7 +15631,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5989586758669366,
+        "zoomFactor": 0.4158753951877976,
         "windowMask": true,
         "selectedLayer": ""
       },
@@ -15777,8 +15851,8 @@
           "name": "Background",
           "persistentUuid": "2ce4d615-e321-44ab-8e1e-2d36244f7392",
           "width": 3017,
-          "x": -4,
-          "y": 0,
+          "x": -3,
+          "y": 2,
           "zOrder": -13,
           "numberProperties": [],
           "stringProperties": [],
@@ -16837,7 +16911,7 @@
           "isLocked": false,
           "name": "respawn",
           "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": [
             {
