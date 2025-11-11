@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 245,
+    "build": 243,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -894,14 +894,6 @@
         "userAdded": false
       },
       {
-        "file": "Enemy_Spawn_Location.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Enemy_Spawn_Location.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "EnemyHealthBar.png",
         "kind": "image",
         "metadata": "",
@@ -946,27 +938,11 @@
         }
       },
       {
-        "file": "Enemy_Spawn_Location2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Enemy_Spawn_Location2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/NewSprite.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite",
         "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "Enemy_Spawn_Location3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Enemy_Spawn_Location3.png",
-        "smoothed": false,
         "userAdded": false
       },
       {
@@ -978,27 +954,11 @@
         "userAdded": false
       },
       {
-        "file": "Enemy_Spawn_Location4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Enemy_Spawn_Location4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/NewSprite3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite3",
         "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "file": "TheRoom.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "TheRoom.png",
-        "smoothed": false,
         "userAdded": false
       },
       {
@@ -1382,7 +1342,7 @@
         "file": "../Downloads/drive-download-20250930T072607Z-1-001/bck bulan1.png",
         "kind": "image",
         "metadata": "",
-        "name": "..\\Downloads\\drive-download-20250930T072607Z-1-001\bck bulan1.png",
+        "name": "..\\Downloads\\drive-download-20250930T072607Z-1-001\\bck bulan1.png",
         "smoothed": true,
         "userAdded": false
       },
@@ -1586,16 +1546,6 @@
         "userAdded": false
       },
       {
-        "file": "water-blup-sound-94679.mp3",
-        "kind": "audio",
-        "metadata": "",
-        "name": "water-blup-sound-94679.mp3",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/Moon.png",
         "kind": "image",
         "metadata": "",
@@ -1609,6 +1559,24 @@
         "metadata": "",
         "name": "8BitOperatorPlus8Regular_Edited3.png",
         "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Enemy_Spawn_Location4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Enemy_Spawn_Location4.png\",\"extension\":\".png\"}",
+        "name": "Enemy_Spawn_Location4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "water-blup-sound-94679.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "water-blup-sound-94679.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
         "userAdded": false
       }
     ],
@@ -1934,15 +1902,15 @@
   ],
   "layouts": [
     {
-      "b": 209,
+      "b": 27,
       "disableInputWhenNotFocused": true,
       "mangledName": "Untitled_32scene",
       "name": "Untitled scene",
-      "r": 209,
+      "r": 208,
       "standardSortMethod": true,
       "stopSoundsOnStartup": false,
       "title": "",
-      "v": 209,
+      "v": 2,
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
@@ -1953,9 +1921,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.23089183385225176,
+        "zoomFactor": 0.37971210019479745,
         "windowMask": false,
-        "selectedLayer": "resapwn"
+        "selectedLayer": ""
       },
       "objectsGroups": [
         {
@@ -2197,9 +2165,9 @@
           "layer": "",
           "name": "Platform_2",
           "persistentUuid": "a9089e79-d43d-4f96-8533-3956f9e270d7",
-          "width": 290,
-          "x": 1025,
-          "y": 443,
+          "width": 242,
+          "x": 1295,
+          "y": 603,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -2541,12 +2509,12 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 143,
+          "height": 414,
           "keepRatio": true,
           "layer": "resapwn",
           "name": "NewSprite",
           "persistentUuid": "90e82a75-65ee-4c57-8646-94f33898bf87",
-          "width": 224,
+          "width": 869,
           "x": 84,
           "y": 98,
           "zOrder": 108,
@@ -2557,15 +2525,16 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 2725.5351681957186,
-          "height": 625,
+          "depth": 1,
+          "height": 93,
+          "keepRatio": true,
           "layer": "resapwn",
           "name": "YouDied",
           "persistentUuid": "0360d842-4c3f-40e2-afcf-4d36212c15d7",
-          "width": 1426,
-          "x": 0,
-          "y": 302,
-          "zOrder": 500,
+          "width": 648,
+          "x": 196,
+          "y": 143,
+          "zOrder": 111,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2639,30 +2608,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 33,
+          "height": 411,
           "keepRatio": true,
-          "layer": "resapwn",
-          "name": "Pause",
-          "persistentUuid": "ff7d9e58-59a4-41cf-88af-8f6c3524c4c3",
-          "width": 35,
-          "x": 27,
-          "y": 26,
-          "zOrder": 114,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1.5206812652068127,
-          "height": 625,
           "layer": "resapwn",
           "name": "pauseMenu",
           "persistentUuid": "82fb62d1-7d3e-4ba5-bc2f-6022dfd550b1",
-          "width": 1426,
-          "x": 0,
-          "y": 0,
+          "width": 866,
+          "x": 85,
+          "y": 98,
           "zOrder": 115,
           "numberProperties": [],
           "stringProperties": [],
@@ -2672,13 +2625,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 56,
+          "height": 55,
           "keepRatio": true,
           "layer": "resapwn",
           "name": "Paused",
           "persistentUuid": "6ddf6433-a550-428e-87d5-6cb5865cfe4e",
-          "width": 251,
-          "x": 583,
+          "width": 247,
+          "x": 393,
           "y": 135,
           "zOrder": 116,
           "numberProperties": [],
@@ -2689,14 +2642,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 1,
+          "height": 55,
           "keepRatio": true,
           "layer": "resapwn",
           "name": "Exit",
           "persistentUuid": "e6f2cbd1-df8b-4378-b5ab-6d5cfca88992",
-          "width": 135,
-          "x": 622,
-          "y": 382,
+          "width": 152,
+          "x": 431,
+          "y": 378,
           "zOrder": 117,
           "numberProperties": [],
           "stringProperties": [],
@@ -2706,14 +2659,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 59,
+          "height": 58,
           "keepRatio": true,
           "layer": "resapwn",
           "name": "Resume",
           "persistentUuid": "a8c26b72-007c-435a-aebc-76c69eae40ae",
-          "width": 275,
-          "x": 569,
-          "y": 268,
+          "width": 271,
+          "x": 379,
+          "y": 266,
           "zOrder": 118,
           "numberProperties": [],
           "stringProperties": [],
@@ -2740,15 +2693,144 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 466,
+          "height": 393,
           "keepRatio": true,
-          "layer": "respawn",
+          "layer": "youdiedmenu",
           "name": "NewSprite",
-          "persistentUuid": "4310ce79-0c41-43b5-9a08-78323f19cba7",
-          "width": 1417,
-          "x": 6,
-          "y": 160,
-          "zOrder": 501,
+          "persistentUuid": "bef9b653-41ac-4409-ab9f-67e0bfb82909",
+          "width": 754,
+          "x": 315,
+          "y": 102,
+          "zOrder": 119,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "youdiedmenu",
+          "name": "YouDied",
+          "persistentUuid": "e19f4d41-346d-4503-9c8f-e31b088d5849",
+          "width": 0,
+          "x": 373,
+          "y": 120,
+          "zOrder": 120,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "youdiedmenu",
+          "name": "Play",
+          "persistentUuid": "ceaafeff-db8b-4c23-a5d9-d128eb474e32",
+          "width": 0,
+          "x": 607,
+          "y": 260,
+          "zOrder": 121,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "youdiedmenu",
+          "name": "Exit",
+          "persistentUuid": "e59282f4-7ce8-448d-b5e4-6d2d2d195931",
+          "width": 0,
+          "x": 615,
+          "y": 366,
+          "zOrder": 122,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 396,
+          "keepRatio": true,
+          "layer": "youdiedmenu",
+          "name": "pauseMenu",
+          "persistentUuid": "6a36e53d-5f9c-449d-8b6a-54e2f1e4aded",
+          "width": 745,
+          "x": 322,
+          "y": 103,
+          "zOrder": 124,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "youdiedmenu",
+          "name": "Paused",
+          "persistentUuid": "9a96be55-49a9-441a-909c-83d1d3918456",
+          "width": 0,
+          "x": 571,
+          "y": 135,
+          "zOrder": 125,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "youdiedmenu",
+          "name": "Resume",
+          "persistentUuid": "48d4abf5-6691-4dfd-b2ca-eb6780e637ca",
+          "width": 0,
+          "x": 565,
+          "y": 253,
+          "zOrder": 126,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "youdiedmenu",
+          "name": "Exit",
+          "persistentUuid": "23b3bb11-f956-48c1-8de8-ffa86ced3fff",
+          "width": 0,
+          "x": 615,
+          "y": 366,
+          "zOrder": 127,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "pause",
+          "name": "Pause",
+          "persistentUuid": "ea84c930-2e32-4665-9ceb-c0c7abe0a7f4",
+          "width": 0,
+          "x": 27,
+          "y": 38,
+          "zOrder": 128,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6121,13 +6203,13 @@
           "effects": [],
           "behaviors": [
             {
-              "name": "Anchor",
-              "type": "AnchorBehavior::AnchorBehavior",
               "bottomEdgeAnchor": 2,
               "leftEdgeAnchor": 1,
-              "relativeToOriginalWindowSize": true,
+              "name": "Anchor",
               "rightEdgeAnchor": 2,
               "topEdgeAnchor": 1,
+              "type": "AnchorBehavior::AnchorBehavior",
+              "relativeToOriginalWindowSize": true,
               "useLegacyBottomAndRightAnchors": false
             }
           ],
@@ -6139,8 +6221,8 @@
             "tint": "255;255;255",
             "bitmapFontResourceName": "8BitOperatorPlus8Regular_Edited2.fnt",
             "textureAtlasResourceName": "8BitOperatorPlus8Regular_Edited4.png",
-            "align": "center",
-            "verticalTextAlignment": "center"
+            "align": "left",
+            "verticalTextAlignment": "top"
           }
         },
         {
@@ -6163,6 +6245,16 @@
             }
           ],
           "behaviors": [
+            {
+              "bottomEdgeAnchor": 0,
+              "leftEdgeAnchor": 1,
+              "name": "Anchor",
+              "relativeToOriginalWindowSize": true,
+              "rightEdgeAnchor": 0,
+              "topEdgeAnchor": 1,
+              "type": "AnchorBehavior::AnchorBehavior",
+              "useLegacyBottomAndRightAnchors": false
+            },
             {
               "name": "ButtonFSM",
               "type": "ButtonStates::ButtonFSM",
@@ -6816,6 +6908,17 @@
                   "parameters": [
                     "Resume",
                     "ButtonFSM",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ZoomCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "0.5",
+                    "",
                     ""
                   ]
                 }
@@ -7830,6 +7933,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Enemy",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8868,6 +8972,74 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "HitBoxPlayer",
+                "Health",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "NewSprite",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "YouDied",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "Play",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "Exit",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -8997,10 +9169,64 @@
           "camera3DFieldOfView": 45,
           "camera3DNearPlaneDistance": 3,
           "cameraType": "",
+          "defaultCameraBehavior": "do-nothing",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "isLocked": false,
-          "name": "resapwn",
+          "name": "youdiedmenu",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "pause",
           "renderingType": "",
           "visibility": true,
           "cameras": [],
@@ -9123,7 +9349,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.3797121001948028,
-        "windowMask": true
+        "windowMask": true,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [
@@ -13753,7 +13980,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Player",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14361,7 +14587,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Player Bullet",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -15631,9 +15856,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4158753951877976,
+        "zoomFactor": 0.21424074744691818,
         "windowMask": true,
-        "selectedLayer": ""
+        "selectedLayer": "Bg"
       },
       "objectsGroups": [],
       "variables": [],
@@ -15851,8 +16076,8 @@
           "name": "Background",
           "persistentUuid": "2ce4d615-e321-44ab-8e1e-2d36244f7392",
           "width": 3017,
-          "x": -3,
-          "y": 2,
+          "x": -4,
+          "y": 0,
           "zOrder": -13,
           "numberProperties": [],
           "stringProperties": [],
@@ -16206,6 +16431,42 @@
                           }
                         ]
                       ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Enemy_Spawn_Location4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -16224,11 +16485,12 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Enemy_Spawn_Location4",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
@@ -16468,7 +16730,7 @@
                   },
                   "parameters": [
                     "",
-                    "1.5",
+                    "1",
                     "\"Bg\"",
                     ""
                   ]
@@ -16911,7 +17173,7 @@
           "isLocked": false,
           "name": "respawn",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": [
             {
